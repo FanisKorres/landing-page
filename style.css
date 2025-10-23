@@ -25,3 +25,9 @@ a {
     padding: 10px 20px;
     border-radius: 5px;
 }
+
+ul {
+    text-align: left;
+    /*display: inline-block;  optional: keeps the list compact and nicely aligned */
+    /* margin: 0 auto; centers the list block itself if you want */
+}
